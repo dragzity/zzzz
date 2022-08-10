@@ -1,0 +1,30 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.43",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Cube",
+            "scale" : [
+                1,
+                0.5792422294616699,
+                1
+            ],
+            "translation" : [
+                -0.09464871883392334,
+                1.115409016609192,
+                -0.0002896523801609874
+            ]
+        }
+    ]
+}
